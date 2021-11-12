@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malith-perera
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on anything in C.
+- 👀 I'm still living.
+- 🌱 I’m creating a extended C library to help C programmers to work easily in C programming than pure C and help to think C programs with objects in mind.
+- 💞️ I’m very interested in helping others.
 - 📫 malithgeethike@gmail.com
 
 <!---
