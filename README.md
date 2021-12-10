@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malith-perera
-- 👀 I'm still living.
-- 🌱 I’m creating a extended C library to help C programmers to work easily in C and think C programs with objects in mind.
-- 💞️ I’m very interested in helping others.
+- 👀 I think I'm still living.
+- 🌱 I’m extending C library to help C programmers to work easily in C and C programming with objects in mind.
+- 💞️ I’m very interested in this project.
 - 📫 malithgeethike@gmail.com
 
 <!---
