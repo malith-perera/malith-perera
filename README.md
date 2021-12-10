@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malith-perera
 - 👀 I think I'm still living.
-- 🌱 I’m extending C library to help C programmers to work easy.
+- 🌱 I’m extending C library to work easy.
 - 💞️ I’m very interested in this project.
 - 📫 malithgeethike@gmail.com
 
