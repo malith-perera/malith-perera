@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malith-perera
-- 👀 I think I'm still living.
-- 🌱 I’m extending C library to work easy.
-- 💞️ I’m very interested in this project.
+- 🌱 I’m extending C library.
+- 👀 I like this project.
+- 💞️ I hope you'll like it too.
 - 📫 malithgeethike@gmail.com
 
 <!---
